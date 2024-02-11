@@ -10,7 +10,7 @@ cd /workspace/tmp
 
 ### HTTPS
 ```sh
-git clone
+git clone https://github.com/DonutsInTheSnow/Github-examples.git
 ```
 
 ## Commits
